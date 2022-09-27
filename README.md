@@ -1,12 +1,14 @@
 
-# A passionate Full Stack Web developer from India
+
+# Hi There  I am Ankesh Yadav
+
+# A passionate Full Stack Web developer 
+
 
 - 👋 Hi, I’m  Ankesh Yadav
-- 👀 I’m currently workingm on React Developer
-- 🌱 I’m currently learning Web development
+  🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate with a team.
 - 📫 How to reach me ankesh11yadav@gmail.com
-- Know about my experience 
 - fun with coding 
 
 # Connect with me in linkedin
