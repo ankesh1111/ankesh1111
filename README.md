@@ -1,12 +1,12 @@
 
 
-# Hi There  I am Ankesh Yadav
+# Hi I am Ankesh Yadav
 
 # A passionate Full Stack Web developer 
 
 
 - 👋 Hi, I’m  Ankesh Yadav
-  🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate with a team.
 - 📫 How to reach me ankesh11yadav@gmail.com
 - fun with coding 
