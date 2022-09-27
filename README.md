@@ -18,7 +18,10 @@ https://www.linkedin.com/feed/
  
 CSS <BR>
 Javascript <br>
-HTML
+HTML <br>
+React.js <br>
+API <br>
+JSON Server
 
 <!---
 ankesh1111/ankesh1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
