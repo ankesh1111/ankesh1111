@@ -14,7 +14,8 @@
 # Connect with me in linkedin
 https://www.linkedin.com/feed/
  
-# Languages and Tools:
+# Tech Stack:
+ 
 CSS <BR>
 Javascript <br>
 HTML
