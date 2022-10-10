@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ankesh11yadav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eVLAhpB7ALpKxSltpk3xhKw93dFEOB7x/view?usp=sharing](https://drive.google.com/file/d/1eVLAhpB7ALpKxSltpk3xhKw93dFEOB7x/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1U6w-zDlI59wbYySTHgOHtffDGv4vLcaj/view?usp=sharing
 
 - ⚡ Fun fact **Fun with code**
 
