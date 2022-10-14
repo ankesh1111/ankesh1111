@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Team**
 
-- 👨‍💻 All of my projects are available at [https://capable-ganache-d34c93.netlify.app/](https://capable-ganache-d34c93.netlify.app/)
+- 👨‍💻 All of my projects are available at https://coruscating-ganache-8b9d0c.netlify.app/
 
 - 💬 Ask me about **React, DSA**
 
