@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankesh1111" alt="ankesh1111" /></a> </p>
 
-- 🔭 I’m currently working on **Codecov Clone**
+ 
 
 - 🌱 I’m currently learning **MERN Stack**
 
