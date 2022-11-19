@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Team**
 
-- 👨‍💻 All of my projects are available at https://coruscating-ganache-8b9d0c.netlify.app/
+- 👨‍💻 All of my projects are available at https://ankesh1111.github.io/
 
 - 💬 Ask me about **React, DSA**
 
 - 📫 How to reach me **ankesh11yadav@gmail.com**
 
-- 📄 Know about my experiences  https://drive.google.com/file/d/1q0hV3WLuoKtmYUvp7XBcF9sXWj7nIZBZ/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1q0hV3WLuoKtmYUvp7XBcF9sXWj7nIZBZ/view?usp=sharing
 
 - ⚡ Fun fact **Fun with code**
 
