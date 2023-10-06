@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Team**
 
-- 👨‍💻 All of my projects are available at https://ankesh1111.github.io/
+- 👨‍💻 All of my projects are available at https://650e70924dc514728377f666--stunning-frangipane-991979.netlify.app/
 
 - 💬 Ask me about **React, DSA**
 
